@@ -1,7 +1,8 @@
 <entry key="restEnabledSql.active">true</entry>
 
 # Configuring the Maximum Number of Rows Returned from a Query
-<entry key="misc.pagination.maxRows">1500</entry>
+
+ '<entry key="misc.pagination.maxRows">1500</entry>'
 
 <entry key="jdbc.enableONS">true</entry>
 <entry key= "jdbc.ONSConfig">nodes=racnode1:4200,racnode2:4200\nwalletfile=/oracle11/onswalletfile</entry>
